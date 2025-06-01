@@ -1,2 +1,2 @@
 # web
-Skwadz Website
+Skwadz.com Website
